@@ -110,6 +110,12 @@ LGUI_T(KC_S),      LALT_T(KC_H),      LCTL_T(KC_N),      LSFT_T(KC_T),      KC_C
 LT(U_BUTTON,KC_F), ALGR_T(KC_M),      KC_V,              KC_C,              KC_SLSH,           KC_G,              KC_P,              KC_X,              ALGR_T(KC_K),      LT(U_BUTTON,KC_Y), \
 U_NP,              U_NP,              LT(U_MEDIA,KC_ESC),LT(U_NAV,KC_SPC),  LT(U_MOUSE,KC_TAB),LT(U_SYM,KC_ENT),  LT(U_NUM,KC_BSPC), LT(U_FUN,KC_DEL),  U_NP,              U_NP
 
+#define MIRYOKU_ALTERNATIVES_BASE_HANDS_DOWN \
+KC_Q,              KC_C,              KC_H,              KC_P,              KC_V,              KC_K,              KC_Y,              KC_Y,              KC_J,              KC_SLSH,           \
+LGUI_T(KC_R),      LALT_T(KC_S),      LCTL_T(KC_N),      LSFT_T(KC_T),      KC_G,              KC_W,              LSFT_T(KC_U),      LCTL_T(KC_E),      LALT_T(KC_I),      LGUI_T(KC_A),      \
+LT(U_BUTTON,KC_X), ALGR_T(KC_M),      KC_L,              KC_D,              KC_B,              KC_Z,              KC_F,              KC_QUOT,           ALGR_T(KC_COMMA),  LT(U_BUTTON,KC_DOT), \
+U_NP,              U_NP,              LT(U_MEDIA,KC_ESC),LT(U_NAV,KC_SPC),  LT(U_MOUSE,KC_TAB),LT(U_SYM,KC_ENT),  LT(U_NUM,KC_BSPC), LT(U_FUN,KC_DEL),  U_NP,              U_NP
+
 #define MIRYOKU_ALTERNATIVES_BASE_NERPS \
 KC_X,              KC_L,              KC_D,              KC_P,              KC_G,              KC_Z,              KC_K,              KC_O,              KC_U,              KC_SCLN,              \
 LGUI_T(KC_N),      LALT_T(KC_R),      LCTL_T(KC_T),      LSFT_T(KC_S),      KC_W,              KC_Y,              LSFT_T(KC_H),      LCTL_T(KC_E),      LALT_T(KC_I),      LGUI_T(KC_A),   \
