@@ -2,4 +2,5 @@
 # https://github.com/manna-harbour/miryoku
 
 BOOTLOADER = atmel-dfu
-# MIRYOKU_EXTRA = NERPS
+LTO_ENABLE = yes
+MIRYOKU_EXTRA = NERPS
